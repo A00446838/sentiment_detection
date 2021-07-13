@@ -1,0 +1,30 @@
+Accuracy for Naive Bayes Classifier:  88.54748603351955
+Accuracy for Decision Tree Classifier:  83.04070231444534
+Accuracy for Maximum Entropy Classifier:  50.75818036711891
+
+Most Informative Features
+         contains('bad') = True                0 : 1      =     24.0 : 1.0
+   contains('excellent') = True                1 : 0      =     21.7 : 1.0
+        contains('nice') = True                1 : 0      =     17.7 : 1.0
+       contains('waste') = True                0 : 1      =     15.4 : 1.0
+        contains('fine') = True                1 : 0      =     15.2 : 1.0
+       contains('great') = True                1 : 0      =     13.2 : 1.0
+       contains('worst') = True                0 : 1      =     13.2 : 1.0
+       contains('awful') = True                0 : 1      =     12.8 : 1.0
+     contains('minutes') = True                0 : 1      =     10.4 : 1.0
+        contains('love') = True                1 : 0      =     10.3 : 1.0
+     contains('problem') = True                0 : 1      =     10.2 : 1.0
+      contains('almost') = True                0 : 1      =      8.2 : 1.0
+        contains('none') = True                0 : 1      =      8.2 : 1.0
+       contains('worse') = True                0 : 1      =      8.2 : 1.0
+       contains('guess') = True                0 : 1      =      7.5 : 1.0
+       contains('years') = True                1 : 0      =      7.5 : 1.0
+contains('disappointed') = True                0 : 1      =      7.5 : 1.0
+      contains('server') = True                1 : 0      =      7.1 : 1.0
+         contains('bit') = True                0 : 1      =      6.9 : 1.0
+       contains('calls') = True                0 : 1      =      6.9 : 1.0
+     contains('started') = True                0 : 1      =      6.9 : 1.0
+      contains('highly') = True                1 : 0      =      6.7 : 1.0
+       contains('actor') = True                1 : 0      =      6.4 : 1.0
+       contains('money') = True                0 : 1      =      6.3 : 1.0
+        contains('easy') = True                1 : 0      =      6.3 : 1.0
